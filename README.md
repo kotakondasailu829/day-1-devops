@@ -16,4 +16,4 @@ I'm Sailaja from India. Starting my DevOps journey from zero.
 **Day 1 Status:** ✅ Repo Created + README Updated
 **Started On:** Oct 5, 2026
 
-> "I don't know everything, but I will learn everything" - Sailaj
+> "I don't know everything, but I will learn everything" - Sailaja
